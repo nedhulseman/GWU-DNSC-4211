@@ -6,7 +6,7 @@ students at George Washington University. This course covers both Python and R.
 | Class    | Description |
 | -------- | ------- |
 | Class 01 | Introduction to base Python including data types, variables, data structures, control flows |
-| Class 02 | 1. Introduction to base R including data types, variables, data structures, control flows <br /> 2. Functions, packages/libraries in Python and R |
+| Class 02 | Introduction to base R including data types, variables, data structures, control flows <br /> Functions, packages/libraries in Python and R |
 | Class 03 | Introduction to the Data Frame; Pandas and Tibble |
 | Class 04 | All Day Exercise; In the Arms of an Angel |
 | Class 05 | Data visualization in Python and R |
